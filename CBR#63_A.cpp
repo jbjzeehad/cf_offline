@@ -17,6 +17,6 @@ int main(){
 
 			cout<<"NO"<<endl;
 		}
-		//cout<<x<<y<<z;
+		
 	
 }
